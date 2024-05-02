@@ -1,7 +1,1 @@
 # SuperGame
-
-
-
-let{
-    super game
-}
